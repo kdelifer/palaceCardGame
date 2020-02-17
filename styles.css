@@ -1,0 +1,38 @@
+form {
+	font-size: 30px;
+}
+
+p {
+	font-size: 20px;
+	line-height: 1;
+	color: #111111;
+}
+
+array {
+	letter-spacing: 5px;
+	color: #111111;
+}
+
+td {
+	font-size: 40px;
+	color: #111111;
+}
+
+h1 {
+	color: #111111;
+}
+
+important {
+	font-size: 30px;
+	color: #FF4136;
+}
+
+lessImportant {
+	font-size: 25px;
+	color: #F012BE;
+}
+
+font20 {
+	font-size: 20px;
+	color: #111111;
+}
